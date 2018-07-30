@@ -36,7 +36,7 @@ I respect your free time and don't tend to message people outside of work hours.
 I want to make these valuable but they are your meetings. If you have an agenda item please bring it up. This is your chance to talk. We will have scheduled 1:1s but if you want to talk ad-hoc, Slack me and I will find time.
 
 # I trust you
-Yes, if you are on my team, my default is to trust that you have the tools to do the job in hand. I trust you to keep our systems up and lift our team and products to new heights. I you need anything to help you achieve that goal, let's talk.
+Yes, if you are on my team, my default is to trust that you have the tools to do the job in hand. I trust you to keep our systems up and lift our team and products to new heights. If you need anything to help you achieve that goal, let's talk.
 
 # I am human
 Which means I inevitably falter.
