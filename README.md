@@ -22,7 +22,7 @@ I work with you -> to acheive your goals.
 I try and be as responsive as possible to any communication, although responses are typically ranked this way:
 
 1. Face to face
-2. Page Duty
+2. Pager Duty
 3. Slack
 4. SMS/phone/none work related messaging platforms.
 5. Email
