@@ -1,5 +1,5 @@
 # Read(about)Me
-Hello, If you're reading this it's likely that I am either your manager, or a prospective team member. This ReadMe should cover some of what to expect when working with me. It's been crafted by me but I've asked for feedback from people who I work with.
+Hello, If you're reading this it's likely that I am either your manager, or a prospective team member. This ReadMe should cover some of what to expect when working with me. It's been crafted by me but I've asked for feedback from the people I work with.
 
 # My mission
 I care about (in no particular order):
@@ -12,11 +12,11 @@ If we aren't in a sustained cycle of learning, and making things better, let's c
 
 # My role as a manager
 I'm here to give you the help you need to do your job. This means:
-I gather information early -> to give you context to do your job.
-I observe team dynamics -> to see if we can work smarter.
-I analyse our systems -> to understand where oppurtunity lies
-I fill in the gaps -> to help when it is needed
-I work with you -> to acheive your goals.
+- I gather information early -> to give you context to do your job.
+- I observe team dynamics -> to see if we can work smarter.
+- I analyse our systems -> to understand where oppurtunity lies
+- I fill in the gaps -> to help when it is needed
+- I work with you -> to acheive your goals.
 
 # Availability
 I try and be as responsive as possible to any communication, although responses are typically ranked this way:
