@@ -8,7 +8,7 @@ I care about (in no particular order):
 - Making you better
 - Making me better
 
-If we aren't in a sustained cycle of learning, and making things better, let's change that. Talk to me. *Help me*. If you don't care about these things, you won't fit on our team.
+If we aren't in a sustained cycle of learning, and making things better, let's change that. Talk to me. *Help me*. If you don't care about these things, then you will struggle to be successful on our team. Don't worry though, if you have the inclination we can turn things around.
 
 # My role as a manager
 I'm here to give you the help you need to do your job. This means:
