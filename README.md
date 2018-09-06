@@ -16,7 +16,7 @@ I'm here to give you the help you need to do your job. This means:
 - I observe team dynamics -> to see if we can work smarter.
 - I analyse our systems -> to understand where opportunity lies
 - I fill in the gaps -> to help when it is needed
-- I work with you -> to acheive your goals.
+- I work with you -> to achieve your goals.
 
 # Availability
 I try and be as responsive as possible to any communication, although responses are typically ranked this way:
@@ -27,7 +27,7 @@ I try and be as responsive as possible to any communication, although responses 
 4. SMS/phone/none work related messaging platforms.
 5. Email
 
-An email to me does not guarantee a timely response. I receive a lot of email and I treat it as an asynchronus medium.
+An email to me does not guarantee a timely response. I receive a lot of email and I treat it as an asynchronous medium.
 
 ## Out of hours communications
 I respect your free time and don't tend to message people outside of work hours. Most things can wait but if you really need to get a hold of me, slack/call/text me. It's cool.
@@ -40,4 +40,4 @@ Yes, if you are on my team, my default is to trust that you have the tools to do
 
 # I am human
 Which means I inevitably falter.
-I'd like to think I'm an honest, straight forward person and because of this I like to know when I'm working well with you and when there's friction. The things written above are part of my guiding principles. If you feel like I am not adhering to the words written above. Or if you don't feel like I am instilling these values in you, _please_ give me that feedback.
+I'd like to think I'm an honest, straightforward person and because of this I like to know when I'm working well with you and when there's friction. The things written above are part of my guiding principles. If you feel like I am not adhering to the words written above. Or if you don't feel like I am instilling these values in you, _please_ give me that feedback.
