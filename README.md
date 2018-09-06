@@ -14,7 +14,7 @@ If we aren't in a sustained cycle of learning, and making things better, let's c
 I'm here to give you the help you need to do your job. This means:
 - I gather information early -> to give you context to do your job.
 - I observe team dynamics -> to see if we can work smarter.
-- I analyse our systems -> to understand where oppurtunity lies
+- I analyse our systems -> to understand where opportunity lies
 - I fill in the gaps -> to help when it is needed
 - I work with you -> to acheive your goals.
 
